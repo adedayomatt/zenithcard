@@ -1,0 +1,12 @@
+[20 : 13 : 36] Failed: Verification email failed to send to Ade<adedayo@k.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[22 : 55 : 44] Failed: Reset password failed to send Adedayo<adedayomatt@gmail.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[22 : 58 : 08] Failed: Reset password failed to send Adedayo<adedayomatt@gmail.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[23 : 06 : 35] Failed: Reset password failed to send Adedayo<adedayomatt@gmail.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[23 : 17 : 53] Failed: Reset password failed to send Adedayo<adedayomatt@gmail.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[23 : 20 : 32] Failed: Zenith PIN failed to send to Adedayo<adedayomatt@gmail.com> *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+

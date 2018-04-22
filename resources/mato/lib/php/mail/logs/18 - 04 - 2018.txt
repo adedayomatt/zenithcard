@@ -1,0 +1,90 @@
+[06 : 46 : 57] Failed: Notification failed to send to Adedayo<adedayomatt@gmail.com> from notifications@zenithcard.io: "<br />
+										<br />
+											Nofication<br />
+										<br />
+										<br />
+											<br />
+												<br />
+											<br />
+										<br />
+			<br />
+				Hello Adedayo, greetings to you from ZenithCard Team, we wish to notify you that we have updated our website to improve our security and protecting our users<br />
+				Here are some of the things you should note:<br />
+				<br />
+					Our home page is now https://zenithcard.io<br />
+					Your Referal Link is  https://zenithcard.io/register/?ref=zen5acc90681c32b, share this link and get people to participate in our ICO and you get 100 ZENT bonus, go to  https://zenithcard.io/dashboard/?target=referal#referal-program  and share your referal link with just one click!<br />
+					Our contribution channels (BTC and ETH) are now available. Go to https://zenithcard.io/dashboard/?target=contribute#contribute to see our wallet address or scan the QR Code<br />
+					Your Zenith PIN is 355047, you will need this PIN to verify that you are the owner of this email that was used to register the ZenithCard account<br />
+					We have reset your password to ade, use this password for your next login and feel free to change it to another secure password here  https://zenithcard.io/dashboard/?target=settings#settings <br />
+					You can now view your ZenithCard account status at  https://zenithcard.io/account <br />
+					If you ever forget your ZenithCard account password, go to  https://zenithcard.io/account/resetpswd  to reset your password<br />
+				<br />
+				We implore to verify that you own this email by going to https://zenithcard.io/account/verify<br />
+				If you encounter any issue regarding ONLY your ZenithCard account, you can write to accounts@zenithcard.io<br />
+				<br />
+				Warm RegardsZenithCard Team<br />
+			<br />
+						Copyright &copy; 2018, ZenithCard.io.<br />
+					<br />
+					" *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[06 : 49 : 10] Failed: Notification failed to send to Adedayo<adedayomatt@gmail.com> from notifications@zenithcard.io: "<br />
+										<br />
+											Nofication<br />
+										<br />
+										<br />
+											<br />
+												<br />
+											<br />
+										<br />
+			<br />
+				Hello Adedayo, greetings to you from ZenithCard Team, we wish to notify you that we have updated our website to improve our security and protecting our users<br />
+				Here are some of the things you should note:<br />
+				<br />
+					Our home page is now https://zenithcard.io<br />
+					Your Referal Link is  https://zenithcard.io/register/?ref=zen5acc90681c32b, share this link and get people to participate in our ICO and you get 100 ZENT bonus, go to  https://zenithcard.io/dashboard/?target=referal#referal-program  and share your referal link with just one click!<br />
+					Our contribution channels (BTC and ETH) are now available. Go to https://zenithcard.io/dashboard/?target=contribute#contribute to see our wallet address or scan the QR Code<br />
+					Your Zenith PIN is 355047, you will need this PIN to verify that you are the owner of this email that was used to register the ZenithCard account<br />
+					We have reset your password to ade, use this password for your next login and feel free to change it to another secure password here  https://zenithcard.io/dashboard/?target=settings#settings <br />
+					You can now view your ZenithCard account status at  https://zenithcard.io/account <br />
+					If you ever forget your ZenithCard account password, go to  https://zenithcard.io/account/resetpswd  to reset your password<br />
+				<br />
+				We implore to verify that you own this email by going to https://zenithcard.io/account/verify<br />
+				If you encounter any issue regarding ONLY your ZenithCard account, you can write to accounts@zenithcard.io<br />
+				<br />
+				Warm RegardsZenithCard Team<br />
+			<br />
+						Copyright &copy; 2018, ZenithCard.io.<br />
+					<br />
+					" *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+[07 : 27 : 14] Failed: Notification failed to send to Adedayo<adedayomatt@gmail.com> from notifications@zenithcard.io: "<br />
+										<br />
+											Nofication<br />
+										<br />
+										<br />
+											<br />
+												<br />
+											<br />
+										<br />
+			<br />
+				Hello Adedayo, greetings to you from ZenithCard Team, we wish to notify you that we have updated our website to improve our security and protecting our users<br />
+				Here are some of the things you should note:<br />
+				<br />
+					Our home page is now https://zenithcard.io<br />
+					Your Referal Link is  https://zenithcard.io/register/?ref=zen5acc90681c32b, share this link and get people to participate in our ICO and you get 100 ZENT bonus, go to  https://zenithcard.io/dashboard/?target=referal#referal-program  and share your referal link with just one click!<br />
+					Our contribution channels (BTC and ETH) are now available. Go to https://zenithcard.io/dashboard/?target=contribute#contribute to see our wallet address or scan the QR Code<br />
+					Your Zenith PIN is 644015, you will need this PIN to verify that you are the owner of this email that was used to register the ZenithCard account<br />
+					We have reset your password to ebc24c, use this password for your next login and feel free to change it to another secure password here  https://zenithcard.io/dashboard/?target=settings#settings <br />
+					You can now view your ZenithCard account status at  https://zenithcard.io/account <br />
+					If you ever forget your ZenithCard account password, go to  https://zenithcard.io/account/resetpswd  to reset your password<br />
+				<br />
+				We implore to verify that you own this email by going to https://zenithcard.io/account/verify<br />
+				If you encounter any issue regarding ONLY your ZenithCard account, you can write to accounts@zenithcard.io<br />
+				<br />
+				Warm RegardsZenithCard Team<br />
+			<br />
+						Copyright &copy; 2018, ZenithCard.io.<br />
+					<br />
+					" *PHPMAILER ERROR>> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+

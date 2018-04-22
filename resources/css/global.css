@@ -1,0 +1,80 @@
+.primary-color{
+	color: #003300;
+}
+.black{
+	color: #000;
+}
+.white{
+	color: #fff;
+}
+.grey{
+	color:grey;
+}
+.custom-btn{
+	background-color: #0d47a1;
+	color: #fff;
+	padding:7px 15px;
+	border:none;
+	border-radius:3px;
+	box-shadow: 0px 3px 3px rgba(0,0,0,0.1) inset;
+	cursor: pointer;
+}
+.copy-to-clipboard-btn{
+	padding: 5px 10px;
+	background-color:#000;
+	color:#fff;
+	border:none; 
+	border-radius: 3px;
+	box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+	cursor: pointer;
+}
+.copy-to-clipboard-btn:hover{
+	opacity: 0.8;
+}
+.f7-bg{
+	background-color:#f7f7f7 !important;
+}
+.white-bg{
+	background-color: #fff !important;
+}
+.disabled{
+	opacity: 0.3;
+	cursor:not-allowed;
+}
+.warning-container{
+	font-size: 18px;
+	text-align: center;
+	background-color: rgba(50,0,0,0.1);
+	color: rgba(255,0,0,1);
+	padding: 10px;
+	margin: 10px 0px;
+	border-radius: 5px;
+}
+/****************For KYC part*********************/
+.kyc-section{
+		color: #003300;
+		padding: 10px;
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+label{
+	font-weight: bold;
+	}
+.doc-criteria-list{
+	list-style-type: none;
+	color: #003300;
+	}
+.help-block{
+	color:grey;
+	font-size: 12px;
+	}
+#personal-info{
+	
+}
+#id-info{
+												
+}
+iframe{
+	 width:100%; 
+	 min-height: 300px;
+}
